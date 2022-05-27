@@ -3,7 +3,7 @@
 Welcome to my page!
 I'm senior student at Department of Computer Engineering and Information Technology, Faculty of Engineering, National University of Laos.
 
-I'm Junior SOC Analyst, Blue Team Ops, Security Engineer.
+I'm Junior SOC Analyst, Incident Responder, Blue Team Ops, Security Engineer.
 
 I enjoy playing Capture the Flag, reading books, and volunteering work for a better community.
 
