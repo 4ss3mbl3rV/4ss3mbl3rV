@@ -7,9 +7,6 @@ I'm Junior SOC Analyst, Incident Responder, Blue Team Ops, Security Engineer.
 
 I enjoy playing Capture the Flag, reading books, and volunteering work for a better community.
 
-## My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ss3mbl3rV&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Core Skill
 
 ### Operating Systems
@@ -32,6 +29,9 @@ I enjoy playing Capture the Flag, reading books, and volunteering work for a bet
 
 ### Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+## My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ss3mbl3rV&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to Find Me
 <a href="mailto:vorachack.vilaysack89@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
