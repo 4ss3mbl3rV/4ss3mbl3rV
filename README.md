@@ -7,6 +7,8 @@ I'm Junior SOC Analyst, Incident Responder, Blue Team Ops, Security Engineer.
 
 I enjoy playing Capture the Flag, reading books, and volunteering work for a better community.
 
+## My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ss3mbl3rV&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Core Skill
 
