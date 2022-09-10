@@ -34,6 +34,5 @@ I enjoy playing Capture the Flag, reading books, and volunteering work for a bet
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ss3mbl3rV&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to Find Me
-<a href="mailto:vorachack.vilaysack89@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://github.com/4ss3mbl3rV" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/vilaysack-vorachack-849877193/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
